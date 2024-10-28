@@ -1,5 +1,5 @@
 ## Maven Market PowerBi Dashboard
-[Dashboard]()
+[Dashboard](https://app.powerbi.com/groups/me/reports/77c8267f-0750-4e7d-ba10-1d199244a4e1?experience=power-bi)
 
 ### Problem
 Maven Market faced challenges in tracking and analyzing its sales performance across various brands and geographical regions.
